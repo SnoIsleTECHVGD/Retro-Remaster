@@ -20,7 +20,7 @@ To showcase your use of the fundamental Game Engine skills by creating a remaste
 
 2. Use your preferred GitHub client (SourceTree, Bash, etc.) to clone your fork of the repository into your student folder under 'E:\VGD\YOUR_STUDENT_NUMBER'.
 
-3. Open the project's Unity folder using Unity 2022.1.22f1. You can now begin creating your game.
+3. Open the project in Unity Hub by clicking 'Add' and then looking for where you cloned the repository and selecting the repository folder. Make sure you're using Unity 2022.1.22f1! You can now begin creating your game.
 
 4. We will have several lessons in class during the duration of the project, each going over different Game Engine skills. You must create a remaster of an arcade game in Unity using those skills. The way you implement it is up to you, but each skill must be present. For example, one day, we may learn how to manipulate velocity and you would implement that into your game in some way, such as making the player move when a button is pressed, adding a jump, etc. Another day, we may learn how to change the animation that's playing and you would implement that by adding enemy animations, animating tiles in your level, making an animated title screen, etc. If you have trouble getting started, there are some examples that you can base yours off of.
 
@@ -64,12 +64,12 @@ To showcase your use of the fundamental Game Engine skills by creating a remaste
 
 3. You'll be given multiple opportunities to correct your work until submission and you can always re-submit past the due date for a better grade with no penalty. Late penalties in general are not applied to assignments. Instead, your professionalism grade might take a hit for late submissions. This only applies if the initial submission is late, not any following submissions to improve your work. Sometimes, there are accentuating circumstances and if you let me know in advance, I will most likely be reasonable regarding lifting penalties unless you are just procrastinating on doing work.
 
-4. Your grade for the project will be rounded to the nearest whole number. Your grade in the gradebook will be a reflection of whatever your most recent evaluation scored as long as each skill was at a 'Proficient' or higher.
+4. Your grade for the project will be rounded to the nearest whole number. Your grade in the gradebook will be a reflection of whatever your most recent evaluation scored as long as each skill was at a 'Proficient' or higher. You can resubmit as much as you like before the end of the current quarter.
 
 ---
 
 ### How to Submit
-Create a Pull Request on GitHub and have a 2nd-Year student approve it up to the day before the project is due. The 2nd-Year will only approve it if you've reached at least 'Proficient' on each skill. You can make multiple pull requests before the project is due, so don't wait until the last minute! Once your request is approved, your project will be submitted and you will be ready for your evaluation with the instructor. Again, you can always resubmit by creating a new pull request.
+Create a Pull Request on GitHub and have a 2nd-Year student approve it up to the day before the project is due. The 2nd-Year will only approve it if you've reached at least 'Proficient' on each skill. If you haven't, they will tell you where you need to improve. You can make multiple pull requests before the project is due, so don't wait until the last minute! Once your request is approved, your project will be submitted and you will be ready for your evaluation with the instructor on the day the project is due. Again, you can always resubmit by creating a new pull request.
 
 ---
 
