@@ -48,7 +48,7 @@ To showcase your use of the fundamental Game Engine skills by creating a remaste
 ---
 
 ### Vocab (1)
-- Entity: Generic way to refer to a ""thing"" in an engine. These are called ""GameObjects"" in Unity, ""Actors"" in Unreal Engine, etc.
+- Entity: Generic way to refer to a 'thing' in an engine. These are called 'GameObjects' in Unity, 'Actors' in Unreal Engine, etc.
 
 ---
 
