@@ -28,22 +28,21 @@ To showcase your use of the fundamental Game Engine skills by creating a remaste
 
 ---
 
-### Skills Rubric (13)
+### Skills Rubric (12)
 | Skill    |  |  |  |  |
 | -------- | ----------------------------------- | -------------------------------- | --------------------------- | ----------------------------- |
-| GAM.FUN.1. Spawn and Use Objects to Represent Game Entities | | | | |
-| GAM.FUN.2. Read and Use Components to Represent Data and Behaviors | | | | |
-| GAM.FUN.3. Load and Use Scenes to Represent Levels and Menus | | | | |
-| GAM.FUN.4. Read and Interpret Keyboard Input | | | | |
-| GAM.FUN.5. Read and Manipulate Transform Data | | | | |
-| GAM.FUN.6. Read and Manipulate Physics Bodies | | | | |
-| GAM.FUN.7. Listen For and Resolve Collisions | | | | |
-| GAM.FUN.8. Resolve an Animation Graph using Parameters | | | | |
-| GAM.FUN.9. Represent and Spawn Object Archetypes | | | | |
-| GAM.FUN.10. Display Data using User Interfaces | | | | |
-| GAM.FUN.11. Read Inputs using User Interfaces | | | | |
-| GAM.2D.1. Read and Manipulate Sprite Data | | | | |
-| GAM.2D.2. Layout Levels using Tilemaps | | | | |
+| GAM.FUN.1. Use GameObjects to Represent Entities | Student may be able to describe what a GameObject does in a game, but can't yet create or manipulate one using scripts | Student can explain what a GameObject does in a game and can create and/or manipulate one using scripts, but not yet consistently or efficiently | Student understands exactly what a GameObject does in a game and can consistently and efficiently create and manipulate one using scripts | Student can do all of the above, as well as teach it to someone else, generalize it to another software, and/or implement their own unique example of how to use them |
+| GAM.FUN.2. Use Components to Represent Behaviors/Data | Student may be able to describe what a Component does in a game, but can't yet add or manipulate one using scripts | Student can explain what a Component does in a game and can add and/or manipulate one using scripts, but not yet consistently or efficiently | Student understands exactly what a Component does in a game and can consistently and efficiently add and manipulate one using scripts | Student can do all of the above, as well as teach it to someone else, generalize it to another software, and/or implement their own unique example of how to use them |
+| GAM.FUN.3. Use Scenes to Represent Levels and Menus |  |  |  |  |
+| GAM.FUN.4. Read and Interpret Device Input |  |  |  |  |
+| GAM.FUN.5. Read and Manipulate Transform Data |  |  |  |  |
+| GAM.FUN.6. Read and Manipulate Physics Bodies |  |  |  |  |
+| GAM.FUN.7. Listen For and Resolve Collisions |  |  |  |  |
+| GAM.FUN.8. Resolve an Animation Using Parameters |  |  |  |  |
+| GAM.FUN.9. Represent Object Archetypes vs. Instances |  |  |  |  |
+| GAM.FUN.10. Display/Read Data Using User Interfaces |  |  |  |  |
+| GAM.2D.1. Read and Manipulate Sprite Data |  |  |  |  |
+| GAM.2D.2. Layout Complex Levels Using Tilemaps |  |  |  |  |
 
 ---
 
