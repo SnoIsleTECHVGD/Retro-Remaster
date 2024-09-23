@@ -46,11 +46,6 @@ To showcase your use of the fundamental Game Engine skills by creating a remaste
 
 ---
 
-### Vocab (1)
-- Entity: Generic way to refer to a 'thing' in an engine. These are called 'GameObjects' in Unity, 'Actors' in Unreal Engine, etc.
-
----
-
 ### Evaluation Procedure
 1. Anytime you're evaluated for a skill, you can score anywhere from a 0 to a 4 on that skill. If you score less than a 'Proficient' (3), then you need to continue working on the skill before you start the next project. Your grade for the project is never set in stone and can move up once you feel like you've improved in any given skill, you just need to be re-evaluated. The only deadlines in which a grade can't be improved are at the end of each quarter. The 5 different levels that you can score for each skill are:
     - No Attempt (0): The skill was not used or attempted in any way in your project.
